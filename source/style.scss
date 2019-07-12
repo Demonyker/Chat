@@ -29,6 +29,16 @@ body {
     border-radius: 10px;
     font-size: 15px;
     margin-left: 10px;
+
+}
+input {
+    outline:none;
+}
+input:active {
+    outline:none;
+}
+input:focus {
+    outline:none;
 }
 .chat__input {
     max-width: 500px;
