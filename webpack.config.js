@@ -6,7 +6,7 @@ const conf = {
   output: {
     path: path.resolve(__dirname, './build'),
     filename: 'main.js',
-    publicPath: './build',
+    publicPath: './',
   },
   module: {
     rules: [
